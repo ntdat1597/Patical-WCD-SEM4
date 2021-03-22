@@ -7,7 +7,7 @@
 
     -<servlet>
 
-    <servlet-name>LoginController</servlet-name>
+    <servlet-name>ServletLoginController</servlet-name>
 
     <servlet-class>com.example.controller.ServletLoginController</servlet-class>
 
@@ -16,7 +16,7 @@
 
     -<servlet-mapping>
 
-    <servlet-name>LoginController</servlet-name>
+    <servlet-name>ServletLoginController</servlet-name>
 
     <url-pattern>/login</url-pattern>
 
